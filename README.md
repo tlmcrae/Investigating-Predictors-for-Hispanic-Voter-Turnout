@@ -33,29 +33,22 @@ We will be using data compiled by Felix Oberholzer-Gee and Joel Waldfogel for th
 ## Getting Started
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Raw Data is being kept [here](Repo folder containing raw data) within this repo.
 
-    *If using offline data mention that and how they may obtain the data from the froup)*
+2. Raw Data is being kept [[Loading Raw Data.do]] within this repo.
     
-3. Data processing/transformation scripts are being kept [here](Repo folder containing data processing scripts/notebooks)
-4. etc...
+3. Data processing/transformation scripts are being kept [Data Processing.do] within this repo. 
 
-*If your project is well underway and setup is fairly complicated (ie. requires installation of many packages) create another "setup.md" file and link to it here*  
+4. Descriptive statistics and graphs are being kept [DescriptiveStatistics:Visualization.do]within this repo.
 
-5. Follow setup [instructions](Link to file)
-
-## Featured Notebooks/Analysis/Deliverables
-* [Notebook/Markdown/Slide Deck Title](link)
-* [Notebook/Markdown/Slide DeckTitle](link)
-* [Blog Post](link)
+5. Statistical Analysis is being kept [Regression and Significance.do]
 
 
 ## Contributing Members
 
 |Name     |  Slack Handle   | 
 |---------|-----------------|
-|[Trinity McRae](https://github.com/[github handle])| @tlmcrae       |
-|[Jesus Merida](https://github.com/[github handle]) |     @janeDoe    |
+|[Trinity McRae](https://github.com/tlmcrae)| @tlmcrae|
+|[Jesus Merida]
 
 ## Contact
 * Feel free to email us at tlmcrae@emory.edu 
